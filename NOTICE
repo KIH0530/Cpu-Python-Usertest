@@ -1,0 +1,12 @@
+NOTICE
+Purpose
+This NOTICE pertains to the Cpu-Python-Usertest project (available at https://github.com/KIH0530/Cpu-Python-Usertest/), an open-source tool designed for simple CPU-intensive testing. The project utilizes Python to ensure cross-platform compatibility and employs two distinct methods to calculate the value of pi, with a default configuration of 50 recalculations. Notably, the second pi-calculation method will exhibit a progressive increase in computation time, serving as a meaningful assessment of CPU performance under intensive workloads.
+Disclaimer of Liability
+Critical Warning: The maintainer(s) of the Cpu-Python-Usertest project bear no responsibility for any consequences arising from the use of this software, including but not limited to CPU overheating, hardware damage, data loss, or any other direct or indirect harm. CPU-intensive operations inherently generate heat, and the extent of heat production may vary based on factors such as CPU model, cooling system efficiency, ambient temperature, and system configuration. Users are solely responsible for ensuring their hardware meets appropriate thermal and operational standards before running this test. It is strongly recommended that users monitor their CPU temperature and system stability during test execution and terminate the process immediately if any abnormal conditions (e.g., excessive heat, system lag, or unusual noises) are observed.
+Data Sharing and Feedback
+Users are welcome to share their CPU test duration results to contribute to the project’s community knowledge base. For reporting software issues, providing test data (e.g., CPU model, test duration, system specifications), or submitting feedback, please contact the project maintainer via email at: keep_it_hidden@outlook.com. By sharing test data or feedback, users acknowledge that such information may be used for project improvement, documentation, or community reference, unless explicitly stated otherwise by the user.
+License Compliance
+This project is distributed under the Apache License 2.0 (see the LICENSE file in the repository for full terms). Use of this software is subject to compliance with the terms and conditions of the Apache License 2.0, including restrictions on liability and limitations of warranty as outlined in the license.
+
+Last Updated: [Insert Date, e.g., October 2024]
+Project Repository: https://github.com/KIH0530/Cpu-Python-Usertest/
